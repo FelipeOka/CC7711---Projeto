@@ -7,7 +7,6 @@
 - Fabio Augusto Schiavi Morpanini <br> R.A: 22.121.094-1
 - Felipe de Campos Oka <br> R.A: 22.121.001–6
 
-
 #### Objetivo:
 - Encontrar a caixa de madeira “leve”
 
@@ -25,3 +24,6 @@ Inicialmente, objetivamos focar nossos esforços na detecção do arrasto da cai
 Para que funcionasse corretamente, foi necessário adicionar a variável “caixaLeve” ao controlador do e-puck e habilitar a função supervisor disponível no e-puck. A principal dificuldade encontrada, se refere ao acender dos leds quando o robô encontrasse a caixa leve, tal dificuldade, se deu pelo fato da luminosidade do mundo requisitado para entrega do projeto, ser mais claro com relação ao disponibilizado para desenvolvimento, para corrigir este problema, foi necessário diminuir a luminosidade, fazendo com que se tornasse visível o funcionamento dos leds.
 
 Foram realizadas 6 simulações, em ambos os mundos disponibilizados (2 no mundo para testes e 4 no mundo para envio), de modo a demonstrar a eficiência do robô em reconhecer os objetos “pesados” e encontrar a caixa leve.
+
+#### Vídeo <br>
+https://drive.google.com/file/d/1CTeirYRPCQwJuGsrbTZwWEoGTN1FB5lf/view?usp=drive_link
