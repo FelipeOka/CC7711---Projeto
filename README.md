@@ -23,6 +23,8 @@ Inicialmente, objetivamos focar nossos esforços na detecção do arrasto da cai
 
 Para que funcionasse corretamente, foi necessário adicionar a variável “caixaLeve” ao controlador do e-puck e habilitar a função supervisor disponível no e-puck. A principal dificuldade encontrada, se refere ao acender dos leds quando o robô encontrasse a caixa leve, tal dificuldade, se deu pelo fato da luminosidade do mundo requisitado para entrega do projeto, ser mais claro com relação ao disponibilizado para desenvolvimento, para corrigir este problema, foi necessário diminuir a luminosidade, fazendo com que se tornasse visível o funcionamento dos leds.
 
+Portanto, para que seja possível notar o acionamento dos leds, é necessário diminuir a luminosidade do mundo e para que seja possível detectar ambos os objetos e o robô, o atributo “supervisor” deve ser alternado para “true”. De modo para que o robô consiga detectar a caixa leve, deve ser atribuída a DEF: caixaLeve ao objeto da mesma.
+
 Foram realizadas 6 simulações, em ambos os mundos disponibilizados (2 no mundo para testes e 4 no mundo para envio), de modo a demonstrar a eficiência do robô em reconhecer os objetos “pesados” e encontrar a caixa leve.
 
 #### Vídeo <br>
