@@ -28,4 +28,4 @@ Foram realizadas 6 simulações, em ambos os mundos disponibilizados (2 no mundo
 #### Vídeo <br>
 https://drive.google.com/file/d/1CTeirYRPCQwJuGsrbTZwWEoGTN1FB5lf/view?usp=drive_link
 
-### Observação: é necessário abrir o arquivo "controller" pelo WeBots e salvá-lo na pasta onde ficam armazenados os Controllers na máquina
+**Observação:** é necessário abrir o arquivo "controller" pelo WeBots e salvá-lo na pasta onde ficam armazenados os Controllers na máquina
